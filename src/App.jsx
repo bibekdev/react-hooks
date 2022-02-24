@@ -1,11 +1,14 @@
-import Basic from './useState/Basic';
-import Array from './useState/Array';
+import Basic from './useEffect/Basic';
+import UseStateCounter from './useState/UseStateCounter';
 
 function App() {
   return (
     <>
+      {/* <Basic />
+      <Array /> */}
+      {/* <Object /> */}
+      {/* <UseStateCounter /> */}
       <Basic />
-      <Array />
     </>
   );
 }
